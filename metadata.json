@@ -1,0 +1,6 @@
+{
+  "name": "Eric Farris Insurance",
+  "description": "Premium, responsive insurance agency website for Eric Farris Insurance in Franklin, TN, offering home and life insurance with an interactive AI chatbot and online quote workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
